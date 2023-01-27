@@ -1,0 +1,27 @@
+git add 
+git commit -m 
+
+
+
+
+
+
+git checkout master
+git checkout <numero de commit>
+git checkout nom de branch
+
+
+git branch -m
+
+git log --oneline => les numéros de commit
+
+
+
+
+
+git branch m- page -blog
+
+
+git branch -M main
+git remote add origin https://github.com/Beasty2121/new-.git
+git push -u origin main

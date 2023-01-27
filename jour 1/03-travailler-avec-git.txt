@@ -1,0 +1,52 @@
+repository = dépôt = un dossier dans lequel git va stocker l'évolution du proet
+
+lancer exploreur windows ensuite aller dans le dossier qui contient le projet et mettre au tout début de la barre d'adresse cmd
+cliquer à droite de la barre d'adresse pour afficher l'adresse d'un dossier 
+donc "cmd" "espace" après entrer
+
+terminal à la racine du projet donc le dossier root du projet
+
+1er commande
+git init
+créé un repository un dossier qui contient le versionning du projet en cours
+fihier invisibble pour levoir mettre \git
+attention le dossier .git n'existe que dans les dossier dans lequel vous avez réaliser  git init
+
+
+=> cas pratique
+=> créer un fichier inder.html
+=> installer boostrap
+
+=> créer un menu navbar
+=> 3 liens
+accueil 
+blog
+contact
+
+=> suivre mon travail avec git
+
+=> git add index.html
+=> git commit -m "modification du menu"
+
+
+
+
+ajouter un diaporama dans le fichier index.html qui contien 4 photo
+
+
+gitk pour voir toutes les étapes
+
+git log --oneline pour pouvoir revenir sur les étapes
+
+git add --all
+
+git commit -m "fin de la branch page-blog"
+
+git checkout master
+
+git merch "fin de la branch page-blog"
+
+
+git branch -M main
+git remote add origin https://github.com/Beasty2121/new-.git
+git push -u origin main

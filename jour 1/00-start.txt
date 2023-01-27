@@ -1,0 +1,33 @@
+git /github
+outils qui permet de versionner
+
+
+svn
+linus torvald => git
+
+git est un outil qui permet de faire du versionnong donc répondre à 4 questions
+1er Question : Quel fichier ?
+2 : Qui la modifié ?
+3 : Quand ?
+4 : Pourquoi ?
+
+projet => pouvoir répondre à ces 4 questions sur tous les fichiers du projet
+
+
+c'est  un outil qu'on peut utiliser de plein de manières différentes
+
+-ligne de commande
+-logiciel avec des boutons
+-visual studio code = module installé par defaut 
+
+
+
+=> dir => permet de svoir le contenu du dossier en cours
+=> cls => pour nettoyer l'écran/vider l'invite de commande
+=> cd => change directory / change de dossier 
+=> cd .. => remonte dans le dossier parent 
+=> cd <nom du dossier> => aller dans le dossier <non-dossier>
+=> tree => liste des tous les dossier 
+=> tree /F
+=> tree /A
+

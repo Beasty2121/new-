@@ -1,0 +1,13 @@
+télécharger git 
+fermer le terminal et ré ouvrir le terminal
+mettre : git --version dedans pour verifier si le git à été bien installe
+
+=> ajouter des info dans git qui est en train de travailler 
+
+git config --global user.name "mon nom"
+git config --global user.email "mon email"
+
+commande que pour git pas github
+
+=> installer et configurer 
+=> fin
